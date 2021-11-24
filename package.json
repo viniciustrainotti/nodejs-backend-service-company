@@ -1,5 +1,5 @@
 {
-  "name": "service-backend-node",
+  "name": "nodejs-backend-service-company",
   "version": "1.0.0",
   "description": "simple backend employees and departaments mongodb",
   "main": "index.js",
